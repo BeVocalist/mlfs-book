@@ -1,5 +1,6 @@
 #!/bin/bash
 
-export HOPSWORKS_API_KEY=zDZmhwmn8YWkMegn.QKcBTBgftWgTfAipJTF1IZcb4pv4SzS29AVyXJi0GsoqjsqDecB2Oveg7O1nyDjq
+export HOPSWORKS_API_KEY=1GASQiZmP723Ufg4.QiZ4xO1Pj1TGDjEoV0mPismk7hKWAMSMjnzpCy0Y7wabfjPsumB9nIKWQgPLyFhd
+
 conda activate lab1
 
